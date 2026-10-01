@@ -1,0 +1,5 @@
+# Use independent cryptographically random values and never commit .dev.vars.
+ACCESS_PRIMARY_SECRET=
+ACCESS_TRANSITION_SECRET=
+SESSION_SECRET=
+INGEST_SECRET=

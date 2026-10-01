@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.dev.vars*
+!.dev.vars.example
+.env*
+.deploy.env
+media/
+!.gitkeep
+*.log
+.wrangler/
+.openchamber/
+.DS_Store
+coverage/
+__pycache__/
+*.py[cod]
