@@ -1,0 +1,97 @@
+.dev.vars.example
+  s_9c34795bba80c0::t_0cb6f1f3a88548 1-5
+.editorconfig
+  s_9c34795bba80c0::t_3ad90b5058c0bb 1-15
+.gitattributes
+  s_9c34795bba80c0::t_bd2ded4efa57e1 1-3
+.github/workflows/ci.yml
+  s_9c34795bba80c0::t_1dfc14cce2bae0 1-22
+.gitignore
+  s_9c34795bba80c0::t_1d04bf1f611113 1-15
+.nvmrc
+  s_9c34795bba80c0::t_539a35898d8181 1
+README.md
+  s_9c34795bba80c0::t_6beb184fbf2ea1 1-225
+SECURITY.md
+  s_9c34795bba80c0::t_7bb851fdc796d3 1-25
+agent.md
+  s_9c34795bba80c0::t_cc42eaf4f3be4b 1-100
+container/.dockerignore
+  s_9c34795bba80c0::t_2346e65d8d66b2 1-3
+container/Dockerfile
+  s_9c34795bba80c0::t_47bbe81140b959 1-20
+container/start.sh
+  s_9c34795bba80c0::t_ac403bd5f7357e 1-106
+package-lock.json
+  s_9c34795bba80c0::t_3ee8d37155e8df 1-4068
+package.json
+  s_9c34795bba80c0::t_89bd0ec902756b 1-41
+scripts/generate-media.sh
+  s_9c34795bba80c0::t_3fceec50a279a0 1-34
+src/hls.ts
+  s_9c34795bba80c0::t_0e16f375a0c054 1-156
+src/index.ts
+  s_9c34795bba80c0::t_0eac618e009e8b 1-291
+src/live-publisher-container.ts
+  s_9c34795bba80c0::t_c5377fd03a9275 1-17
+src/part2.ts
+  s_9c34795bba80c0::t_fb2fa334f04a16 1-754
+src/source-role.ts
+  s_9c34795bba80c0::t_d987b5ce8f679a 1-13
+src/stream-coordinator.ts
+  s_9c34795bba80c0::t_1171056683ce31 1-627
+src/token.ts
+  s_9c34795bba80c0::t_4c15fdf2c7a8b2 1-149
+tests/hls.test.ts
+  s_9c34795bba80c0::t_7658d6292e264d 1-103
+tests/part2.test.ts
+  s_9c34795bba80c0::t_4d76f0d53e9982 1-564
+tests/token.test.ts
+  s_9c34795bba80c0::t_cd9e70b6e2a8f6 1-62
+tests/ui-helpers.test.ts
+  s_9c34795bba80c0::t_c91b54b6f72996 1-17
+tsconfig.json
+  s_9c34795bba80c0::t_92af3af1235e58 1-20
+tsconfig.worker.json
+  s_9c34795bba80c0::t_bab0422f9f1863 1-13
+ui/index.html
+  s_9c34795bba80c0::t_37889df3567c81 1-14
+ui/src/App.tsx
+  s_9c34795bba80c0::t_83890d636891d4 1-434
+ui/src/Part2Demo.tsx
+  s_9c34795bba80c0::t_0b9f22881c4daf 1-578
+ui/src/SourceNavigator.tsx
+  s_9c34795bba80c0::t_f4da116a7b931c 1-168
+ui/src/demo-helpers.ts
+  s_9c34795bba80c0::t_3ba30b6ee64e9c 1-7
+ui/src/main.tsx
+  s_9c34795bba80c0::t_b21faa146aa202 1-16
+ui/src/styles.css
+  s_9c34795bba80c0::t_269946d05cb75e 1-414
+ui/src/vite-env.d.ts
+  s_9c34795bba80c0::t_b99561667d394f 1-3
+vite.config.ts
+  s_9c34795bba80c0::t_b2b4acf5128dac 1-19
+vitest.config.ts
+  s_9c34795bba80c0::t_2fb5cce8bc145b 1-7
+worker-configuration.d.ts
+  s_9c34795bba80c0::t_d15e2354bc092a 1-16204
+wrangler.jsonc
+  s_9c34795bba80c0::t_3e45db404500ea 1-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "edd3e5ed64f88c8411c0ecc8374eb2e74dcaf940",
+  "prompts": {},
+  "sessions": {
+    "s_9c34795bba80c0": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f30947cfdffetQfAKpLdqwWp49",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Stephane Nouvellon <stephane@cloudflare.com>"
+    }
+  }
+}
